@@ -1,0 +1,22 @@
+Differences between CPU and GPU:
+===============================
+1) A CPU (central processing unit) works together with a GPU (graphics processing unit) to increase the throughput of data and the number of concurrent calculations within an application. 
+
+2) Because GPUs can perform parallel operations on multiple sets of data, they are also commonly used for non-graphical tasks such as machine learning and scientific computation. Designed with thousands of processor cores running simultaneously, GPUs enable massive parallelism where each core is focused on making efficient calculations.
+
+3) GPUs are not as versatile as CPUs.
+
+4) How come wtill CPU is powerful:
+CPUs have large and broad instruction sets, managing every input and output of a computer, which a GPU cannot do.
+
+5) GPUs are best suited for repetitive and highly-parallel computing tasks. 
+
+Examples:
+========
+1) CPU and GPU rendering video — The graphics card helps transcode video from one graphics format to another faster than relying on a CPU
+
+2) Accelerating data — A GPU has advanced calculation ability that accelerates the amount of data a CPU can process in a given amount of time. When there are specialized programs that require complex mathematical calculations, such as deep learning or machine learning, those calculations can be offloaded by the GPU. This frees up time and resources for the CPU to complete other tasks more efficiently.
+
+3) Cryptocurrency mining
+
+https://youtu.be/-P28LKWTzrI/
